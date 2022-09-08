@@ -1,9 +1,3 @@
-# Decompile by KangEhem:)
-
-# with (uncompyle6) version : 3.7.4
-
-# Time Succes decompile : 2022-09-07 08:13:36.727454
-
 import os,sys,time,datetime,random,hashlib,re,threading,json,urllib,cookielib,getpass
 
 os.system('rm -rf .txt')
@@ -705,5 +699,3 @@ def action():
 if __name__ == '__main__':
 
 	menu()
-
-# Mau Ngapain Cuk?
